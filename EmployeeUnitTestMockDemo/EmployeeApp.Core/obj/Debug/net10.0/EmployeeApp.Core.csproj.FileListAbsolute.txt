@@ -1,0 +1,15 @@
+/Users/navneetagarwal/Desktop/donet/Testing/EmployeeUnitTestMockDemo/EmployeeApp.Core/bin/Debug/net10.0/EmployeeApp.Core
+/Users/navneetagarwal/Desktop/donet/Testing/EmployeeUnitTestMockDemo/EmployeeApp.Core/bin/Debug/net10.0/EmployeeApp.Core.deps.json
+/Users/navneetagarwal/Desktop/donet/Testing/EmployeeUnitTestMockDemo/EmployeeApp.Core/bin/Debug/net10.0/EmployeeApp.Core.runtimeconfig.json
+/Users/navneetagarwal/Desktop/donet/Testing/EmployeeUnitTestMockDemo/EmployeeApp.Core/bin/Debug/net10.0/EmployeeApp.Core.dll
+/Users/navneetagarwal/Desktop/donet/Testing/EmployeeUnitTestMockDemo/EmployeeApp.Core/bin/Debug/net10.0/EmployeeApp.Core.pdb
+/Users/navneetagarwal/Desktop/donet/Testing/EmployeeUnitTestMockDemo/EmployeeApp.Core/obj/Debug/net10.0/EmployeeApp.Core.GeneratedMSBuildEditorConfig.editorconfig
+/Users/navneetagarwal/Desktop/donet/Testing/EmployeeUnitTestMockDemo/EmployeeApp.Core/obj/Debug/net10.0/EmployeeApp.Core.AssemblyInfoInputs.cache
+/Users/navneetagarwal/Desktop/donet/Testing/EmployeeUnitTestMockDemo/EmployeeApp.Core/obj/Debug/net10.0/EmployeeApp.Core.AssemblyInfo.cs
+/Users/navneetagarwal/Desktop/donet/Testing/EmployeeUnitTestMockDemo/EmployeeApp.Core/obj/Debug/net10.0/EmployeeApp.Core.csproj.CoreCompileInputs.cache
+/Users/navneetagarwal/Desktop/donet/Testing/EmployeeUnitTestMockDemo/EmployeeApp.Core/obj/Debug/net10.0/EmployeeApp.Core.sourcelink.json
+/Users/navneetagarwal/Desktop/donet/Testing/EmployeeUnitTestMockDemo/EmployeeApp.Core/obj/Debug/net10.0/EmployeeApp.Core.dll
+/Users/navneetagarwal/Desktop/donet/Testing/EmployeeUnitTestMockDemo/EmployeeApp.Core/obj/Debug/net10.0/refint/EmployeeApp.Core.dll
+/Users/navneetagarwal/Desktop/donet/Testing/EmployeeUnitTestMockDemo/EmployeeApp.Core/obj/Debug/net10.0/EmployeeApp.Core.pdb
+/Users/navneetagarwal/Desktop/donet/Testing/EmployeeUnitTestMockDemo/EmployeeApp.Core/obj/Debug/net10.0/EmployeeApp.Core.genruntimeconfig.cache
+/Users/navneetagarwal/Desktop/donet/Testing/EmployeeUnitTestMockDemo/EmployeeApp.Core/obj/Debug/net10.0/ref/EmployeeApp.Core.dll
